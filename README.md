@@ -25,8 +25,8 @@ This pipeline covers the following steps:
 ├── data/
 │   ├── snp-data.csv
 │   ├── rna-data.csv
-│   ├── snp-features.csv
-│   ├── rna-features.csv
+│   ├── snp-features.csv      # has SNP genomic positions
+│   ├── rna-features.csv      # has gene genomic positions
 │   └── snp.*                 # PLINK binary files (.bed/.bim/.fam)
 │
 ├── output/
