@@ -4,7 +4,7 @@ This repository provides a **complete, reproducible pipeline** for performing **
 
 The workflow uses **PLINK** and **MatrixEQTL**. All code snippets from the original practical have been converted into **standalone, runnable scripts**.
 
-Data : GSE53261 
+Data : **GSE53261** 
 
 ---
 
